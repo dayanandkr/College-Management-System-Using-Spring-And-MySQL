@@ -1,1 +1,1 @@
-# College-Management-System-Using-Spring-And-MySQl
+# College-Management-System-Using-Spring-And-MySQL
